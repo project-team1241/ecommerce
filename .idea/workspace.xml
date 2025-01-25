@@ -5,7 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f121f7d3-d7d4-4afa-92b6-2cd2a05b2c5c" name="Changes" comment="Fix : README.md">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-gateway/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-gateway/src/main/java/com/rrm/graven_gateway/GravenGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-gateway/src/test/java/com/rrm/graven_gateway/GravenGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-order/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-order/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-order/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-order/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-order/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-order/src/main/java/com/rrm/graven_order/GravenOrderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-order/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-order/src/test/java/com/rrm/graven_order/GravenOrderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-payment/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-payment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-payment/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-payment/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-payment/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-payment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-payment/src/main/java/com/rrm/graven_payment/GravenPaymentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-payment/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-payment/src/test/java/com/rrm/graven_payment/GravenPaymentApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-product/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-product/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-product/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-product/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-product/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-product/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-product/src/main/java/com/rrm/graven_product/GravenProductApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-product/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-product/src/test/java/com/rrm/graven_product/GravenProductApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-user/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-user/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-user/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-user/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-user/src/main/java/com/rrm/graven_user/GravenUserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-user/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graven-user/src/test/java/com/rrm/graven_user/GravenUserApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/HELP.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +152,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737824483256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix : README.md">
+      <option name="closed" value="true" />
+      <created>1737824518961</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737824518961</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix : README.md">
+      <option name="closed" value="true" />
+      <created>1737824644972</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737824644972</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
